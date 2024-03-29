@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ric-rky
+- 👋 Hi, I’m @ric-rky, my real name is Ricardo and I have a bachelor and a master's degree in Pure Mathematics
 - 👀 I’m interested in Data Analysis/Science, Machine Learning, Statistics and Maths in general
 - 🌱 I’m currently learning Python and R for Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on Data Science projets
