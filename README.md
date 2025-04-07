@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis/Science, Machine Learning, Statistics and Maths in general
 - 🌱 I’m currently learning Python and R for Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on Data Science projets
-- 📫 How to reach me: rl.bertolucci@unesp.br
+- 📫 How to reach me: bertolucci.rl@gmail.com
 - ⚡ Fun fact: 143 is not a prime number...
 
 <!---
