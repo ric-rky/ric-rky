@@ -8,7 +8,7 @@ Atualmente estou aprofundando meus estudos em Python com foco em aplicações pa
 Busco oportunidades e colaborações em projetos voltados à Análise de Dados, Modelagem Preditiva e Ciência de Dados.  
 Contato: bertolucci.rl@gmail.com
 
----
+##
 
 ### 🌍 In English
 
