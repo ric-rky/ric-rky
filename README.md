@@ -1,19 +1,19 @@
-## 👋 Olá! Eu sou o Ricardo (@ric-rky) / Hi there! I'm Ricardo (@ric-rky)
+## Sobre mim / About me
 
-### 🇧🇷 Sobre mim
-🎓 Bacharel e Mestre em Matemática Pura pela UNESP  
-🔬 Apaixonado por **Estatística**, **Ciência de Dados**, **Machine Learning** e **Matemática** em geral  
-💻 Atualmente estudando **Python** com foco em Data Science  
-🤝 Buscando colaborar em projetos de **Análise de Dados** e **Ciência de Dados**  
-📫 Contato: bertolucci.rl@gmail.com  
-⚡ Curiosidade: 143 **não** é um número primo 😄
+### 🇧🇷 Em português
+
+Bacharel e Mestre em Matemática Pura pela UNESP.  
+Tenho forte interesse em Estatística, Ciência de Dados, Machine Learning e Matemática em geral.  
+Atualmente estou aprofundando meus estudos em Python com foco em aplicações para análise de dados e ciência de dados.  
+Busco oportunidades e colaborações em projetos voltados à Análise de Dados, Modelagem Preditiva e Ciência de Dados.  
+Contato: bertolucci.rl@gmail.com
 
 ---
 
-### 🌍 About me
-🎓 Bachelor's and Master's degrees in Pure Mathematics (UNESP - Brazil)  
-🔬 Passionate about **Statistics**, **Data Science**, **Machine Learning**, and **Mathematics** in general  
-💻 Currently studying **Python** focused on Data Science  
-🤝 Looking to collaborate on **Data Analysis** and **Data Science** projects  
-📫 Reach me at: bertolucci.rl@gmail.com  
-⚡ Fun fact: 143 is **not** a prime number 😄
+### 🌍 In English
+
+Bachelor's and Master's degrees in Pure Mathematics (UNESP - Brazil).  
+Strong interest in Statistics, Data Science, Machine Learning, and Mathematics in general.  
+Currently studying Python with a focus on data analysis and data science applications.  
+Looking for opportunities and collaborations in Data Analysis, Predictive Modeling, and Data Science projects.  
+Contact: bertolucci.rl@gmail.com
