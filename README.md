@@ -9,7 +9,7 @@ Tenho também interesse em programação de forma geral e pretendo, futuramente,
 Busco oportunidades e colaborações em projetos voltados à Análise de Dados, Modelagem Preditiva e Ciência de Dados.  
 Contato: bertolucci.rl@gmail.com
 
----
+##
 
 ### 🌍 In English
 
