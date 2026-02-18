@@ -1,27 +1,29 @@
-## Sobre mim / About me
+## 🇧🇷 Português
 
-🇧🇷 Em português
+Bacharel e Mestre em Matemática Pura pela UNESP, com sólida formação em matemática avançada, estatística, probabilidade, otimização e modelagem matemática.
 
-Bacharel e Mestre em Matemática Pura pela UNESP, com sólida formação em matemática avançada, estatística e modelagem matemática.
+Atuo com Ciência de Dados, Machine Learning e Inteligência Artificial, desenvolvendo modelos preditivos, conduzindo análises estatísticas avançadas, engenharia de atributos, validação robusta de modelos e interpretação de resultados. Utilizo Python e seu ecossistema científico (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow), além de práticas de MLOps e versionamento de modelos.
 
-Possuo experiência prática em Ciência de Dados, Machine Learning e Inteligência Artificial, atuando no desenvolvimento de modelos preditivos, análises estatísticas avançadas, engenharia de atributos, validação de modelos e interpretação de resultados, utilizando Python e seus principais frameworks para dados e IA.
+Também possuo experiência com frameworks de IA generativa e LLMs, incluindo LangChain, integração com APIs de Large Language Models, desenvolvimento de pipelines com agentes, RAG (Retrieval-Augmented Generation), embeddings, vetorização de dados e construção de aplicações orientadas a IA.
 
-Tenho forte interesse e experiência em pesquisa aplicada em dados, otimização e modelagem estatística, aliando rigor matemático a soluções práticas orientadas a dados. Também possuo background em programação científica e computação aplicada, com interesse contínuo em ampliar meu stack técnico, incluindo R e Julia.
+Tenho forte interesse em pesquisa aplicada em dados, otimização e modelagem estatística, combinando rigor matemático com soluções práticas orientadas a dados. Possuo background em programação científica e computação aplicada, com interesse contínuo em expandir meu stack técnico, incluindo R e Julia.
 
-Busco oportunidades profissionais e colaborações em projetos de Machine Learning, Inteligência Artificial e Ciência de Dados, especialmente em contextos que valorizem profundidade analítica, pesquisa aplicada e impacto prático.
+Busco oportunidades e colaborações em projetos de Machine Learning, Inteligência Artificial e Ciência de Dados, especialmente em contextos que valorizem profundidade analítica, pesquisa aplicada, inovação tecnológica e impacto prático.
 
-📩 Contato: bertolucci.rl@gmail.com
+📩 **Contato:** bertolucci.rl@gmail.com
 
-##
+---
 
-🌍 In English
+## 🌍 English
 
-Bachelor’s and Master’s degrees in Pure Mathematics from UNESP (Brazil), with a strong foundation in advanced mathematics, statistics, and mathematical modeling.
+Bachelor’s and Master’s degrees in Pure Mathematics from UNESP (Brazil), with a strong foundation in advanced mathematics, probability, statistics, optimization, and mathematical modeling.
 
-I have hands-on experience in Data Science, Machine Learning, and Artificial Intelligence, working on predictive modeling, advanced statistical analysis, feature engineering, model validation, and results interpretation, using Python and its main data science and AI frameworks.
+I work in Data Science, Machine Learning, and Artificial Intelligence, developing predictive models, conducting advanced statistical analyses, performing feature engineering, robust model validation, and results interpretation. I use Python and its scientific ecosystem (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow), along with MLOps practices and model lifecycle management tools.
 
-I am particularly interested in and experienced with applied research in data, optimization, and statistical modeling, combining rigorous mathematical reasoning with data-driven, real-world solutions. I also have a solid background in scientific programming and applied computation, and I plan to expand my technical stack with R and Julia in the near future.
+I also have experience with generative AI frameworks and Large Language Models, including LangChain, LLM API integration, agent-based pipelines, Retrieval-Augmented Generation (RAG), embeddings, vector databases, and AI-driven application development.
 
-I seek professional opportunities and collaborations in Machine Learning, Artificial Intelligence, and Data Science projects, particularly in environments that value analytical depth, applied research, and practical impact.
+I am particularly interested in applied research in data science, optimization, and statistical modeling, combining rigorous mathematical reasoning with data-driven, real-world solutions. I have a solid background in scientific programming and applied computation and continuously expand my technical stack, including R and Julia.
 
-📩 Contact: bertolucci.rl@gmail.com
+I seek professional opportunities and collaborations in Machine Learning, Artificial Intelligence, and Data Science projects, especially in environments that value analytical depth, applied research, technological innovation, and practical impact.
+
+📩 **Contact:** bertolucci.rl@gmail.com
